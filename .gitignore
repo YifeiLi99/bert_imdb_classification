@@ -11,7 +11,7 @@ __pycache__/
 *.pt
 
 # 数据集
-data/
+#data/
 
 # 日志和中间文件
 logs/
